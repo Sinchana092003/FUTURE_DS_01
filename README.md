@@ -1,4 +1,4 @@
-## ✅ Task 1 – GitHub README (copy–paste friendly)
+## ✅ Task 1 
 
 ### 📊 Business Sales Dashboard from E-Commerce Data
 
